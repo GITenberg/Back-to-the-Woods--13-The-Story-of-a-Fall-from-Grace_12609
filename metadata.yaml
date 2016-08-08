@@ -1,0 +1,33 @@
+_repo: Back-to-the-Woods--13-The-Story-of-a-Fall-from-Grace_12609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobart, George V. (George Vere)
+    aliases:
+    - Hobart, George Vere
+    - McHugh, Hugh
+    - Lott, Noah
+    - Hobart, G. V. (George Vere)
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '4454'
+    url: http://www.gutenberg.org/2009/agents/4454
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- GITenberg
+tableOfContents: John Henry's lucky days -- John Henry's ghost story -- John Henry's
+  burglar -- John Henry's country cop -- John Henry's telegram -- John Henry's two
+  queens -- John Henry's happy home.
+title: "Back to the Woods\r\nThe Story of a Fall from Grace"
+url: http://www.gutenberg.org/ebooks/12609
